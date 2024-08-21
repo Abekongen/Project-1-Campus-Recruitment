@@ -58,27 +58,40 @@ The analysis was conducted through a series of visualizations:
 Based on the analysis, actionable insights can be derived for educational institutions to focus on areas like work experience and specialization to improve placement outcomes. Employers can also use these insights to tailor their recruitment strategies.
 
 ## Visualizations
+
+
 ![image_360](https://github.com/user-attachments/assets/5efeef4e-6059-475e-92ec-67d387d97449)
+
 
 Count of Status by Gender: The distribution of placement status is relatively balanced between male and female students. However, a slightly higher number of males are placed compared to females, indicating no significant gender disparity in placement outcomes.
 
+
 ![image_360](https://github.com/user-attachments/assets/78f7bbd5-7043-4a5d-88a7-ffa94c589820)
+
 
 Sum of Salary by Salary Bin: The salary distributions across different salary bins reveal that a majority of students are concentrated in the lower salary ranges. The highest frequency is observed in the bin for salaries between 300,000 and 400,000, suggesting that most placed students earn within this range.
 
+
 ![image_360](https://github.com/user-attachments/assets/61b4b2db-a27d-4d2f-8958-2361d081b448)
+
 
 Salary by MBA Percentage: The scatter plot indicates a positive correlation between MBA percentage scores and salaries. As MBA percentages increase, there appears to be a tendency for salaries to increase as well, although the distribution is wide, indicating variability in salary outcomes.
 
+
 ![image_360](https://github.com/user-attachments/assets/6086f0fe-a4e1-438a-8996-73d4d2b466d9)
+
 
 Sum of Students by Work Experience: The pie chart shows that a significant majority (approximately 63.97%) of students do not have work experience. This could imply that most students are entering the job market without prior professional experience, which may influence placement opportunities.
 
+
 ![image_360](https://github.com/user-attachments/assets/c16c2daa-cb2c-4863-b083-d81e84d2a7d0)
+
 
 Sum of Students by HSC Board: The bar chart showcases a higher number of students from the Central Board compared to those from Other Boards. This could indicate a preference or trend in the education background of students who pursued further studies.
 
+
 ![image_360](https://github.com/user-attachments/assets/0f6b25a3-7b37-4b01-aa92-dee21652c9fc)
+
 
 Sum of Students by HSC Specialization: The bar chart indicates that a larger proportion of students specialized in Commerce compared to those in Science and Arts. This may reflect current educational trends or preferences among students.
 
