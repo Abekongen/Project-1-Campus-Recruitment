@@ -32,7 +32,7 @@ The dataset used for this analysis contains records of students' academic and pl
 
 CSV: https://drive.google.com/file/d/1xtEsXfJARJ2avxvWR4UdsCfj7OoLoRpQ/view?usp=drive_link
 
-PowerBi: https://drive.google.com/file/d/1VoyY05ccISuCJp9mVjD3MHf8WchzF-LR/view?usp=drive_link
+PowerBI: https://drive.google.com/file/d/1VoyY05ccISuCJp9mVjD3MHf8WchzF-LR/view?usp=drive_link
 
 ## Methodology
 
