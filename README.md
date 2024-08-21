@@ -29,7 +29,7 @@ The dataset used for this analysis contains records of students' academic and pl
 - Placement Status
 
 # CSV and PowerBI File 
-[Uploading P1 Placement_Data_Full_Class.csv…]()
+
 
 
 ## Methodology
